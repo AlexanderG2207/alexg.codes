@@ -1,1 +1,3 @@
-# alexanderg2207.github.io
+# Alex G Codes
+
+My personal website hosted with GitHub!

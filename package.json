@@ -2,6 +2,7 @@
   "name": "alexg.codes",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://alexg.codes/",
   "type": "module",
   "scripts": {
     "dev": "vite",
